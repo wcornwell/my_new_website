@@ -1,5 +1,5 @@
 baseurl = "https://example.com"
-title = "Academic"
+title = "Cornwell Lab"
 copyright = "&copy; 2016 Your Name"
 theme = "academic"
 enableEmoji = true
