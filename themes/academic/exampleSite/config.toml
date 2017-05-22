@@ -1,5 +1,5 @@
 baseurl = "https://example.com"
-title = "Cornwell Lab"
+title = "Academic"
 copyright = "&copy; 2016 Your Name"
 theme = "academic"
 enableEmoji = true
@@ -19,17 +19,16 @@ defaultContentLanguageInSubdir = false
   hrefTargetBlank = true
 
 [params]
-  name = "Will Cornwell"
-  role = "Associate Professor"
-  organization = "University of New South Wales"
+  name = "Lena Smith"
+  role = "Professor of Artificial Intelligence"
+  organization = "Stanford University"
   organization_url = ""
-  avatar = "will.jpg"
-  email = "w.cornwell@unsw.edu.au"
-  address = "Biosciences South 5104"
-  office_hours = "email for appointment"
-  phone = "+6129850028"
-  twitter = "will_cornwell"
-  skype = ""
+  avatar = "portrait.jpg"
+  email = "test@example.org"
+  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  office_hours = "Monday 10:00 to 13:00 or email for appointment"
+  phone = "888 888 88 88"
+  skype = "echo123"
   telegram = ""
 
   # Enable Keybase in Contact section by entering your keybase.io username.
@@ -41,7 +40,7 @@ defaultContentLanguageInSubdir = false
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
-  math = true
+  math = false
 
   # Highlight.js options
   #   highlight
